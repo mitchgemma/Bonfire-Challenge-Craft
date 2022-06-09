@@ -1,0 +1,22 @@
+dateModified: 1654782862
+email:
+  fromEmail: mitchgemma@gmail.com
+  fromName: 'Bonfire Challenge'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    2931f4ef-db5f-4527-8a8a-8e46cd7694e3: 'Bonfire Challenge'
+    ca89edc1-29bd-4a1d-9030-bdc829a319df: 'Bonfire Challenge'
+    cd554105-2fbf-43b8-a565-068dd06fcb33: Common
+system:
+  edition: solo
+  live: true
+  name: 'Bonfire Challenge'
+  schemaVersion: 4.0.0.9
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
